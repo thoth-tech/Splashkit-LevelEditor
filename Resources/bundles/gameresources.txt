@@ -1,0 +1,22 @@
+BITMAP, Solid, solid_blocks_le.png, 64, 64, 4, 8, 32
+BITMAP, HalfBlocksTop, half_blocks_top.png, 64, 64, 2, 3, 5
+BITMAP, HalfBlocksBottom, half_blocks_bottom.png, 64, 64, 2, 3, 5
+BITMAP, Ladder, ladder.png, 64, 64, 1, 1, 1
+BITMAP, Pipe, pipes_64.png, 64, 64, 4, 16, 63
+BITMAP, Water, water_blocks.png, 64, 64, 2, 6, 12
+BITMAP, Toxic, toxic_blocks.png, 64, 64, 1, 4, 1
+BITMAP, Players, players.png, 32, 64, 2, 1, 2
+BITMAP, Door, doors.png, 64, 64, 1, 1, 1
+BITMAP, Enemy, enemies.png, 64, 32, 1, 17, 17
+BITMAP, HoldPipes, holdable_pipes.png, 64, 64, 6, 6, 33
+BITMAP, EmptyHold, holdable_pipes_empty_le.png, 64, 64, 6, 6, 33
+BITMAP, TurnPipes, turn_pipes.png, 64, 64, 2, 6, 6
+BITMAP, EmptyTurn, turn_pipes_empty.png, 64, 64, 2, 6, 6
+BITMAP, Decorative, decorative_blocks.png, 64, 64, 4, 9, 35
+BITMAP, MultiPipes, turn_pipes.png, 64, 64, 2, 6, 6
+BITMAP, EmptyMulti, multipipes_empty.png, 64, 64, 2, 6, 12
+BITMAP, Collect, collectables.png, 64, 64, 3, 1, 3
+BITMAP, Edge, edge_le.png, 64, 64, 1, 1, 1
+
+
+FONT, basicFont, ARIAL.TTF
